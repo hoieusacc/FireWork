@@ -46,4 +46,9 @@ Run the script with:
   ```bash
   python firework.py
 ```
+Description:
+  - The script likely draws ASCII-style fireworks in the terminal.
+  - May use randomized patterns or simple animations frame-by-frame.
+  - Designed to be lightweight, fun, and easy to run without additional dependencies.
+
 [⬅ Return](#FireWork)
