@@ -16,7 +16,6 @@ _Built with Python_
   - [Installation](#installation)
   - [Usage](#usage)
 - [Description](#description)
-- [License](#license)
 
 ---
 
@@ -41,12 +40,12 @@ _Built with Python_
 2. **Navigate into the project directory:**
    ```bash
    cd FireWork
-Usage
+## Usage:
 Run the script with:
   ```bash
   python firework.py
 ```
-Description:
+## Description:
   - The script likely draws ASCII-style fireworks in the terminal.
   - May use randomized patterns or simple animations frame-by-frame.
   - Designed to be lightweight, fun, and easy to run without additional dependencies.
